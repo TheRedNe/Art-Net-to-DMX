@@ -17,4 +17,4 @@ I'm sorry for my bad english.
 **Ohter:**
   - If you want to you can add the argument *--nogui* to disable the GUI.
   - If you want to you can also add the argument *--showReceive*. It will print a message in the console, every time it receives an Art-Net packet.
-  - If you want to you can add the argument *--withoutusb*. If you use this, is won't open the serial port. You can only see the Art-Net output in the GUI. (Only makes scense if you don't use *--nugui*)
+  - If you want to you can add the argument *--withoutusb*. If you use this, is won't open the serial port. You can only see the Art-Net output in the GUI. (Only makes scense if you don't use *--nogui*)
