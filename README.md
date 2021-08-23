@@ -8,7 +8,7 @@ I'm sorry for my bad english.
   - You can also execute it with a batch file (.bat), a shell-script (.sh) or a command file (.command).
   
 **Art-Net Setup:** 
-  - To set the address of the Art-Net Node, you have add the argument *--artnetaddress* and after it the Address, default its 2.100.100.1
+  - To set the address of the Art-Net Node, you to have add the argument *--artnetaddress* and after it the Address, default its 2.100.100.1
   
 **Usb-DMX Setup:**
   - To set the serial port where your interface is plugged into your computer, you have to add the argument *--usbcomport* and after it the ports name. Example: COM9 (Windows), /dev/tty.usbserial* (Mac OSX) The default serial port is COM9. If you are not shure to wich serial port your interface is connected you can start the programm and there will be printed to wich port wich divice connected is. 
