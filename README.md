@@ -12,7 +12,7 @@ I'm sorry for my bad english.
   
 **Usb-DMX Setup:**
   - To set the serial port where your interface is plugged into your computer, you have to add the argument *--usbcomport* and after it the ports name. Example: COM9 (Windows), /dev/tty.usbserial* (Mac OSX) The default serial port is COM9. If you are not shure to wich serial port your interface is connected you can start the programm and there will be printed to wich port wich divice connected is. 
-  - To set the baudrate of the serial connection, you have to add the argument *--usbbaudrate* and after it the baudrate. If you want to avoid problems, just don't use this argument, because DMX has a baud of 250000 if you change it, it won't be DMX anymore. The default here is 250000 baud.
+  - To set the baudrate of the serial connection, you have to add the argument *--usbbaudrate* and after it the baudrate. If you want to avoid problems, just don't use this argument, because DMX has a baud of 250000 if you change it, it won't be DMX anymore and it won't work. The default here is 250000 baud.
 
 **Ohter:**
   - If you want to you can add the argument *--nogui* to disable the GUI.
