@@ -1,7 +1,7 @@
 # Art-Net-to-DMX
 An Art-Net to DMX programm
 
-At the moment only for Windows. You need at least the Java JRE 1.8.0 installed. 
+At the moment only for Windows. Mac support may be added later. You need at least the Java JRE 1.8.0 installed. 
 
 **Usage:**
   1. Start ArtNetToDMX.exe 
